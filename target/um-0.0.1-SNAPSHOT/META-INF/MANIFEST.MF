@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: nguye
+Build-Jdk: Amazon Corretto version 17.0.8
+Implementation-Title: um
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gpgroup.edusamrt
+Main-Class: ${start-class}
+
